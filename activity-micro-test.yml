@@ -29,8 +29,8 @@ spring:
   jpa:
    show-sql: true
 logging.level.com.lms.microservices.activitymicro.controller.ActivityController: DEBUG
-general-props.prop1: 12
-general-props.prop2: hola
+general-props.prop1: 15
+general-props.prop2: test
 general-props.prop3: true
 
 
